@@ -1,0 +1,25 @@
+<div class="projects" id="projects" [@scrollAnimation]="state">
+    <div class="projects__heading">
+        <h2 class="projects__title">Projects</h2>
+    </div>
+    <div class="underline"></div>
+    <div class="container">
+        <div class="grid" [@scrollAnimation]="state">
+            <figure class="photo photo--wrapper" *ngFor="let project of projects">
+                <img class="photo__img" alt="project" [src]="project.img">
+                <div class="overlay">
+                    <h4 class="overlay__title">{{project.title}}</h4>
+                    <p class="overlay__description">{{project.description}}</p>
+                    <ul class="list">
+                        <li class="list__item" *ngFor="let tools of project.tools">
+                            <span class="list__tag">{{tools.title}}</span>
+                        </li>
+                    </ul>
+                    <div class="overlay__icon">
+                        <a class="fab fa-4x fa-github" href="{{project.github}}" target="_blank"></a>
+                    </div>
+                </div>
+            </figure>
+        </div>
+    </div>
+</div>

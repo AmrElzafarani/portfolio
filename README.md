@@ -1,6 +1,16 @@
 # Portfolio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
+This is my portfolio developed with Angular
+
+
+## Install 
+
+* [Install Node.js](https://nodejs.org/en/).
+* Install [Angular CLI: 13.2.4](https://www.npmjs.com/package/@angular/cli).
+  * Run `npm install -g @angular/cli` to install Angular.
+* Clone this project repository.
+* Run `npm install` from project directory..
+* Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
 ## Development server
 
@@ -14,14 +24,18 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Build With
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* HTML5/CSS3
+* Font Awesome-free
+* SCSS
+* Angular Animation
+* TypeScript
+* Angular CLI
+* Node
+* TSLint
+* ES6
 
-## Running end-to-end tests
+## Author
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+**Amr Elzafarani**

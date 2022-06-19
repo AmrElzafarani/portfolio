@@ -1,0 +1,107 @@
+[
+    {
+        "title": "E-Commerce",
+        "description": "E-Commerce App with Admin Panel",
+        "tools": [
+            {
+                "title": "Node Js"
+            },
+            {
+                "title": "Angular 12"
+            },
+            {
+                "title": "MongoDB"
+            },
+            {
+                "title": "JWT"
+            }
+        ],
+        "img":"./assets/img/Ngshop.png",
+        "github" : "https://amrelzaafrany.github.io/eshop/"
+    },
+    {
+        "title": "Store",
+        "description": "Backend API in Node Js for online Store",
+        "tools": [
+            {
+                "title": "Node Js"
+            },
+            {
+                "title": "Postgress"
+            },
+            {
+                "title": "Express Js"
+            },
+            {
+                "title": "JWT"
+            },
+            {
+                "title": "Jasmine"
+            }
+        ],
+        "img":"./assets/img/Store.jpg",
+        "github" : "https://github.com/AmrElzaafrany/storefront-backend"
+    },
+    {
+        "title": "Chat App",
+        "description": "Real Rime Chat App",
+        "tools": [
+            {
+                "title": "Node Js"
+            },
+            {
+                "title": "TypeScript"
+            },
+            {
+                "title": "React Js"
+            },
+            {
+                "title": "Express Js"
+            },
+            {
+                "title": "MongoDb"
+            },
+            {
+                "title": "Jasmine"
+            }
+        ],
+        "img":"./assets/img/Chat App.png",
+        "github" : "https://github.com/AmrElzaafrany/Real-time-cahat-app"
+    },
+    {
+        "title": "Memory Game",
+        "description": "Reavel two cards in turn and show if matched or not",
+        "tools": [
+            {
+                "title": "JavaScript"
+            },
+            {
+                "title": "Html5"
+            },
+            {
+                "title": "CSS3"
+            }
+           
+        ],
+        "img":"./assets/img/Matching Game.png",
+        "github" : "https://amrelzaafrany.github.io/memorygame/"
+    },
+    {
+        "title": "landing Page",
+        "description": "Responsive Restaurant website",
+        "tools": [
+            {
+                "title": "Angular js"
+            },
+            {
+                "title": "Bootstrap 5"
+            },
+            {
+                "title": "CSS3"
+            }
+           
+        ],
+        "img":"./assets/img/Restaurant.png",
+        "github" : "https://amrelzaafrany.github.io/memorygame/"
+    }
+]

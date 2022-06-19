@@ -1,0 +1,38 @@
+[
+    {
+        "tittle": "NodeJs",
+        "icon": "fab fa-4x fa-node"
+    },
+    {
+        "tittle": "Angular",
+        "icon": "fab fa-4x fa-angular"
+    },
+    {
+        "tittle": "JavaScript",
+        "icon": "fab fa-4x fa-js"
+    },
+    {
+        "tittle": "React.js",
+        "icon": "fab fa-4x fa-react"
+    },
+    {
+        "tittle": "HTML5",
+        "icon": "fab fa-4x fa-html5"
+    },
+    {
+        "tittle": "CSS3 and SCSS",
+        "icon": "fab fa-4x fa-css3"
+    },
+    {
+        "tittle": "SQL",
+        "icon": "fa-solid fa-4x fa-database"
+    },
+    {
+        "tittle": "MongoDb",
+        "icon": "fa-solid fa-4x fa-database"
+    },
+    {
+        "tittle": "Restfull API",
+        "icon": "fa-solid fa-4x fa-ellipsis"
+    }
+]

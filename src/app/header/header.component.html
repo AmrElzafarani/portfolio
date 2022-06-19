@@ -1,0 +1,14 @@
+<header>
+    <div class="toggle" (click)="navOpened()">
+      <i class="fas fa-2x" [ngClass]="{'fa-bars':!isNavOpen, 'fa-times':isNavOpen}"></i>
+    </div>
+    <nav>
+      <ul class="nav nav--hightlighted" [ngClass]="{'nav__open':isNavOpen}">
+        <li class="nav__brand"><a href="#"> Amr <span class="gray">EL </span>zafarani</a></li>
+        <li class="nav__item"><a (click)="scroll('about')">About</a></li>
+        <li class="nav__item"><a (click)="scroll('skill')" #skill>Skills</a></li>
+        <li class="nav__item"><a (click)="scroll('projects')" #projects>Projects</a></li>
+        <li class="nav__item"><a (click)="scroll('contact')" #contact>Contact</a></li>
+      </ul>
+    </nav>
+  </header>
