@@ -17,7 +17,7 @@
             }
         ],
         "img":"./assets/img/Ngshop.png",
-        "github" : "https://amrelzaafrany.github.io/eshop/"
+        "github" : "https://amrelzafarani.github.io/eshop/"
     },
     {
         "title": "Store",
@@ -40,7 +40,7 @@
             }
         ],
         "img":"./assets/img/Store.jpg",
-        "github" : "https://github.com/AmrElzaafrany/storefront-backend"
+        "github" : "https://github.com/amrelzafarani/storefront-backend"
     },
     {
         "title": "Chat App",
@@ -66,7 +66,28 @@
             }
         ],
         "img":"./assets/img/Chat App.png",
-        "github" : "https://github.com/AmrElzaafrany/Real-time-cahat-app"
+        "github" : "https://github.com/amrelzafarani/Real-time-cahat-app"
+    },
+    {
+        "title": "landing Page",
+        "description": "Crypto Currency checker",
+        "tools": [
+            {
+                "title": "Angular"
+            },
+            {
+                "title": "Angular Material"
+            },
+            {
+                "title": "Bootstrap"
+            },
+            {
+                "title": "Chart.js"
+            }
+           
+        ],
+        "img":"./assets/img/Crypto.png",
+        "github" : "https://amrelzafarani.github.io/crypto-checker"
     },
     {
         "title": "Memory Game",
@@ -84,24 +105,7 @@
            
         ],
         "img":"./assets/img/Matching Game.png",
-        "github" : "https://amrelzaafrany.github.io/memorygame/"
-    },
-    {
-        "title": "landing Page",
-        "description": "Responsive Restaurant website",
-        "tools": [
-            {
-                "title": "Angular js"
-            },
-            {
-                "title": "Bootstrap 5"
-            },
-            {
-                "title": "CSS3"
-            }
-           
-        ],
-        "img":"./assets/img/Restaurant.png",
-        "github" : "https://amrelzaafrany.github.io/memorygame/"
+        "github" : "https://amrelzafarani.github.io/memorygame/"
     }
+    
 ]

@@ -6,14 +6,13 @@ import { Subscription, fromEvent } from 'rxjs';
 export class ScrollAnimationComponent implements AfterViewInit, OnDestroy {
 
     constructor(private _el: ElementRef,
-                public cdRef: ChangeDetectorRef) { }
+        public cdRef: ChangeDetectorRef) { }
 
     @Output()
     state!: string;
 
     componentPosition!: number;
     scrollPosition!: number;
-
     subscribeScroll!: Subscription;
 
     onScroll() {
@@ -42,7 +41,7 @@ export class ScrollAnimationComponent implements AfterViewInit, OnDestroy {
         }
     }
 
-    ngAfterViewInit() {       
+    ngAfterViewInit() {
         this.state = 'hide';
         this.cdRef.detectChanges();
         this.subscribe();
