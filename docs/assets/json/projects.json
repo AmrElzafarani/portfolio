@@ -17,7 +17,11 @@
             }
         ],
         "img":"./assets/img/Ngshop.png",
+<<<<<<< Updated upstream
         "github" : "https://amrelzaafrany.github.io/eshop/"
+=======
+        "github" : "https://amrelzafarani.github.io/eshop/"
+>>>>>>> Stashed changes
     },
     {
         "title": "Store",
@@ -40,7 +44,11 @@
             }
         ],
         "img":"./assets/img/Store.jpg",
+<<<<<<< Updated upstream
         "github" : "https://github.com/AmrElzaafrany/storefront-backend"
+=======
+        "github" : "https://github.com/amrelzafarani/storefront-backend"
+>>>>>>> Stashed changes
     },
     {
         "title": "Chat App",
@@ -66,6 +74,7 @@
             }
         ],
         "img":"./assets/img/Chat App.png",
+<<<<<<< Updated upstream
         "github" : "https://github.com/AmrElzaafrany/Real-time-cahat-app"
     },
     {
@@ -95,13 +104,54 @@
             },
             {
                 "title": "Bootstrap 5"
+=======
+        "github" : "https://github.com/amrelzafarani/Real-time-cahat-app"
+    },
+    {
+        "title": "landing Page",
+        "description": "Crypto Currency checker",
+        "tools": [
+            {
+                "title": "Angular"
+            },
+            {
+                "title": "Angular Material"
+            },
+            {
+                "title": "Bootstrap"
+            },
+            {
+                "title": "Chart.js"
+            }
+           
+        ],
+        "img":"./assets/img/Crypto.png",
+        "github" : "https://amrelzafarani.github.io/crypto-checker"
+    },
+    {
+        "title": "Memory Game",
+        "description": "Reavel two cards in turn and show if matched or not",
+        "tools": [
+            {
+                "title": "JavaScript"
+            },
+            {
+                "title": "Html5"
+>>>>>>> Stashed changes
             },
             {
                 "title": "CSS3"
             }
            
         ],
+<<<<<<< Updated upstream
         "img":"./assets/img/Restaurant.png",
         "github" : "https://amrelzaafrany.github.io/memorygame/"
     }
+=======
+        "img":"./assets/img/Matching Game.png",
+        "github" : "https://amrelzafarani.github.io/memorygame/"
+    }
+    
+>>>>>>> Stashed changes
 ]
