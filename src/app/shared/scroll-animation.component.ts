@@ -22,7 +22,7 @@ export class ScrollAnimationComponent implements AfterViewInit, OnDestroy {
     }
 
     checkState() {
-        if (this.state = 'hide') {
+        if (this.state == 'hide') {
             if (this.scrollPosition >= this.componentPosition) {
                 this.state = 'show';
                 this.unsubscribe();
